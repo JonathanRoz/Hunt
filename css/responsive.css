@@ -40,10 +40,10 @@
         top: 412px;
     }
     #banner-part .carousel-control-prev{
-        left: 191px;
+        left: 132px;
     }
     #banner-part .carousel-control-next{
-        right: 194px;
+        right: 129px;
         opacity: 1 !important;
     }
     #banner-shape {
@@ -125,7 +125,7 @@
 
      #portfolio-part {
        margin-top: 51px !important;
-       padding-bottom:5043px !important;
+       padding-bottom:3526px !important;
     }
     #portfolio-part .title {
         padding-top: 27px !important;
@@ -241,7 +241,7 @@
         text-align: center;
         position: absolute;
         bottom: -51px;
-        left: 201px;
+        left: 134px;
     }
     #service-part .nex{
         width: 38px;
@@ -254,7 +254,7 @@
         text-align: center;
         position: absolute;
         bottom: -51px;
-        right: 196px;
+        right: 113px;
     }
      /* =-===============service-part========== */
       /* =-===============price-part========== */
