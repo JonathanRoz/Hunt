@@ -19,10 +19,23 @@ $(".service-slider").slick({
           }
         },
         {
-          breakpoint: 600,
+          breakpoint: 992,
           settings: {
-            slidesToShow: 2,
-            slidesToScroll: 2
+            slidesToShow: 1,
+            slidesToScroll: 2,
+            vertical:false,
+            prevArrow:'<i class="fas fa-chevron-left pr"></i>',
+            nextArrow:'<i class="fas fa-chevron-right ne"></i>',
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 2,
+            vertical:false,
+            prevArrow:'<i class="fas fa-chevron-left pr"></i>',
+            nextArrow:'<i class="fas fa-chevron-right ne"></i>',
           }
         },
         {
