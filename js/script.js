@@ -60,8 +60,9 @@ $('.counter').counterUp({
     time: 1000
 });
 
-$(".slider").slick({
+$(".sliderre").slick({
     slidesToShow:5,
+    slidesToScroll:1,
     arrows:false,
     centerMode:true,
     centerPadding:'0',
