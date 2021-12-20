@@ -350,6 +350,7 @@ nav ul li a:hover{
     top: 66px;
     position: relative;
     left: 4px;
+    z-index: 999;
 }
 #about-part  .right h3{
     padding-left: 27px;
